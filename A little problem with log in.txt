@@ -1,0 +1,5 @@
+Muchachon tuve un problemita, pero chill.
+Lo que me paso fue que en la conexion ya la tenia lista y hasta comentarios le hice y de todo,
+entonces al final cuando fui a cerrar el archivo me da un error de unexpected endfile de la ultima etiqueta 
+de cierre que era de html, y lo cerre, pero tranqui, implemente php lo veras en el codigo 
+y tambien en lo que es el SIGN IN. Fue una parte del log in que se me daño.

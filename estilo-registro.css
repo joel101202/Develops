@@ -1,0 +1,64 @@
+body{
+    display: ruby-base;
+    background-image: linear-gradient( to right bottom, #aeaeae, #c2c2c2, #d6d6d6, #eaeaea, #ffffff);
+    color: grey;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*contenedor del login*/
+
+.container{
+    
+    position: relative;
+    top: 105px;
+    left: 0px;
+    width: 50%;
+    height: 80%;
+    
+    
+}
+ 
+/*esto es en recuadro de registro*/
+#porsiaca{
+    position: relative;
+    top: 15px;
+   
+}
+/*logo*/
+
+#dev{
+    position: relative;
+    top: -15px;
+    left: 175px;
+    right: 10px;
+}
+.form-group{
+    position: relative;
+    top: 15px;
+    width: 75%;
+    left: 70px;
+  
+}
+
+.PORFIN{
+    position: relative;
+    left: 150px;
+}
+
+button{
+    position: relative;
+    left: 195px;
+    top: 25px;
+    background-color: rgb(129, 127, 127) ;
+    width: 30%;
+    color: #eeeeee;
+}
+/*footer*/
+.footer{
+    position: relative;
+    margin-top: 100px;
+    width: 100%;
+    height: 20%;
+    background-color: #5A6268;
+}
